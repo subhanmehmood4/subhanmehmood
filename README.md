@@ -12,7 +12,7 @@ Here are some of the live projects I have worked on:
 - **[CustomScale AI](https://frontend.customscale.ai/login)** – AI-driven solutions for business scalability, workflow optimization, and data-informed decisions. *(Frontend interface & project management tools)*  
 - **[Honchometrics](https://honchometrics.com/)** – Data analytics and visualization platform for businesses. *(Full-stack development)*  
 - **[Amigos Mex Grill](https://amigosmexgrill.com/)** – A Mexican restaurant website with an interactive menu & online reservations. *(WordPress development & UI enhancements)*  
-- **[Jeffrey Weaver - Isning Projects](https://isningprojects.com/jeffrey-weaver/)** – A creative portfolio showcasing artistic projects. *(Website optimization & improvements)*  
+- **[Jeffrey Weaver](https://isningprojects.com/jeffrey-weaver/)** – A creative portfolio showcasing artistic projects. *(Website optimization & improvements)*  
 - **[The Outsourced Expert](https://theoutsourcedexpert.com/)** – A bookkeeping services website for Australian, UK, Canadian, and US businesses. *(WordPress, SEO, career page with database integration)*  
 
 ## 🚀 Skills & Expertise
