@@ -20,6 +20,9 @@ I design frontier AI evaluation benchmarks and ship production backends. I run [
 |---------|-----------|
 | **[DocMind](https://subhanmehmood.com/docmind)** | AI document search with citations for legal teams — 70% less research time, 94% answer accuracy |
 | **[OpsHub](https://subhanmehmood.com/opshub)** | One dashboard that replaced 12 spreadsheets for a 50-person ops team |
+| **[ShipLane](https://github.com/subhanmehmood4/shiplane)** | Self-hostable logistics & shipment orchestration engine — hub routing, manifest consolidation, carrier scan ingestion |
+| **[PyFlow](https://github.com/subhanmehmood4/workflow-engine)** | Self-hostable workflow automation engine — DAG execution, webhooks, cron triggers, Jinja2 templates |
+| **[MediConnect Lite](https://github.com/subhanmehmood4/mediconnect-lite)** | Telehealth SaaS demo — appointment booking, patient portal, doctor dashboard, WebRTC video calls |
 | **[DocMind Lite](https://github.com/subhanmehmood4/docmind-lite)** | Open-source RAG demo with source citations |
 | **[OpsHub Lite](https://github.com/subhanmehmood4/opshub-lite)** | SaaS analytics dashboard + AI copilot demo |
 | **[BillCore](https://github.com/subhanmehmood4/billcore)** | Subscription billing & usage metering engine |
