@@ -1,27 +1,64 @@
-# Muhammad Subhan Mehmood
+# Subhan Mehmood
 
-This is my personal GitHub profile repository where I showcase my skills, experience, and projects.  
-I specialize in **Flutter, Python, WordPress, and full-stack development**.  
-Here, you'll find details about my live projects, contributions, and technical expertise.  
+**LLM Engineer & Founder** · [subhanmehmood.com](https://subhanmehmood.com)
 
-## 🌟 Live Projects
-Here are some of the live projects I have worked on:  
+I design frontier AI evaluation benchmarks and ship production backends. I run [DevAxon](https://www.devaxon.com) — a small studio shipping SaaS MVPs for founders in 6–8 weeks — and do LLM training & evaluation across AfterQuery, Vetto, Mercor, Revelo, and Turing.
 
-- **[Nanda Diagnostics](https://nandadiagnostics.com/)** – A leading diagnostic center offering advanced pathology and radiology solutions. *(Frontend development)*  
-- **[Kidney Stones Treatment](https://kidneystonestreatment.com/)** – A dynamic system for managing treatment resources with Laravel & Bootstrap. *(Admin dashboard & user-friendly UI)*  
-- **[CustomScale AI](https://frontend.customscale.ai/login)** – AI-driven solutions for business scalability, workflow optimization, and data-informed decisions. *(Frontend interface & project management tools)*  
-- **[Honchometrics](https://honchometrics.com/)** – Data analytics and visualization platform for businesses. *(Full-stack development)*  
-- **[Amigos Mex Grill](https://amigosmexgrill.com/)** – A Mexican restaurant website with an interactive menu & online reservations. *(WordPress development & UI enhancements)*  
-- **[Jeffrey Weaver](https://isningprojects.com/jeffrey-weaver/)** – A creative portfolio showcasing artistic projects. *(Website optimization & improvements)*  
-- **[The Outsourced Expert](https://theoutsourcedexpert.com/)** – A bookkeeping services website for Australian, UK, Canadian, and US businesses. *(WordPress, SEO, career page with database integration)*  
+---
 
-## 🚀 Skills & Expertise
-- **Languages & Frameworks:** Flutter, Dart, Python, JavaScript, Laravel, WordPress  
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS  
-- **CMS & Platforms:** WordPress, WooCommerce, Shopify  
-- **Databases:** Firebase, MySQL, PostgreSQL  
-- **Version Control:** Git, GitHub  
+## Currently
 
-## 📫 Connect with Me
-- 📧 Email: subhanmehmood4@gmail.com
-- **LinkedIn:** [linkedin.com/in/subhan-mehmood/](https://www.linkedin.com/in/subhan-mehmood/)
+- **Founder @ [DevAxon](https://www.devaxon.com)** — auth, billing, dashboards, AI when it actually matters
+- **LLM training & evaluation** — Harbor terminal benchmarks, SWE-bench-Pro repos, multimodal MCQ, and RLHF reviews
+- **Based in Pakistan**, working with teams and founders across the US, UK, and MENA
+
+---
+
+## Selected builds
+
+| Project | What it is |
+|---------|-----------|
+| **[DocMind](https://subhanmehmood.com/docmind)** | AI document search with citations for legal teams — 70% less research time, 94% answer accuracy |
+| **[OpsHub](https://subhanmehmood.com/opshub)** | One dashboard that replaced 12 spreadsheets for a 50-person ops team |
+| **[DocMind Lite](https://github.com/subhanmehmood4/docmind-lite)** | Open-source RAG demo with source citations |
+| **[OpsHub Lite](https://github.com/subhanmehmood4/opshub-lite)** | SaaS analytics dashboard + AI copilot demo |
+| **[BillCore](https://github.com/subhanmehmood4/billcore)** | Subscription billing & usage metering engine |
+
+---
+
+## Evaluation work
+
+Benchmark authoring, difficulty calibration, and human-in-the-loop QA across frontier model evaluation programs.
+
+**AfterQuery Experts**
+- **Project Silver (SWE-bench-Pro)** — 8 production-style codebases, 70+ bug-fix tasks with bugs-from-birth git history
+- **Project Pluto (Harbor / Terminal-Bench 3.0)** — 47+ CLI-verifiable terminal agent tasks (SQL rollups, git recovery, log analysis, JWT hardening)
+- **Project Julio (Multimodal MCQ)** — 23+ image-dependent MCQ items calibrated for ≥4/5 model failure rate
+- **Project Aid · Blueprint · Vibe Code** — clinical VLM triage, HABS blueprint verification, Mimo v2.5 agent steering
+
+**Revelo · Mercor · Vetto · Turing**
+- Revelo Terminal-Bench-2: hopcroft-dfa-minimizer (71-test JS CLI benchmark, 4/4 validation gates)
+- Mercor Project Thor v2: screen-recorded expert demonstration, CSV validation pipeline
+- Vetto Arena: multi-turn coding conversation reviews against 20–29 rubrics each
+- Turing: OSWorld-SFT task execution, prompt-based model evaluation, golden trajectories
+
+[Full breakdown →](https://subhanmehmood.com/evaluation)
+
+---
+
+## Stack
+
+**Backend:** Python, Django, FastAPI, PostgreSQL, REST APIs  
+**Frontend:** React, TypeScript, Tailwind CSS, Flutter  
+**AI / ML:** RAG pipelines, vector search, LLM evaluation, benchmark authoring, RLHF  
+**Infra:** Git, Docker, CI/CD
+
+---
+
+## Connect
+
+- 🌐 Portfolio: [subhanmehmood.com](https://subhanmehmood.com)
+- 🏢 Studio: [devaxon.com](https://www.devaxon.com)
+- 📧 Email: [subhan@devaxon.com](mailto:subhan@devaxon.com)
+- 💼 LinkedIn: [linkedin.com/in/subhan-mehmood](https://www.linkedin.com/in/subhan-mehmood/)
+- 💬 WhatsApp: [+92 339 4121516](https://wa.me/923394121516)
